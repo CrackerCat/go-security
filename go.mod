@@ -1,4 +1,4 @@
-module go-security
+module github.com/r0ckysec/go-security
 
 go 1.17
 
