@@ -1,4 +1,4 @@
-module sec-tools
+module go-security
 
 go 1.17
 
