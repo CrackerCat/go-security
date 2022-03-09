@@ -6,9 +6,9 @@ require (
 	github.com/cnf/structhash v0.0.0-20201127153200-e1b16c1ebc08
 	github.com/fatih/color v1.13.0
 	github.com/orcaman/concurrent-map v1.0.0
-	github.com/panjf2000/ants/v2 v2.4.7
+	github.com/panjf2000/ants/v2 v2.4.8
 	github.com/pkg/errors v0.9.1
-	github.com/projectdiscovery/stringsutil v0.0.0-20210804142656-fd3c28dbaafe
+	github.com/projectdiscovery/stringsutil v0.0.0-20220208075244-7c05502ca8e9
 	github.com/sirupsen/logrus v1.8.1
 	github.com/stretchr/testify v1.7.0
 	github.com/thinkeridea/go-extend v1.3.2
@@ -21,7 +21,7 @@ require (
 	github.com/andybalholm/brotli v1.0.4 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/klauspost/compress v1.15.0 // indirect
-	github.com/mattn/go-colorable v0.1.12 // indirect
+	github.com/mattn/go-colorable v0.1.9 // indirect
 	github.com/mattn/go-isatty v0.0.14 // indirect
 	github.com/mgutz/ansi v0.0.0-20200706080929-d51e80ef957d // indirect
 	github.com/onsi/ginkgo v1.16.5 // indirect

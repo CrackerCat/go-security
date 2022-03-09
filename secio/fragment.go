@@ -8,9 +8,9 @@ package secio
 import (
 	"bytes"
 	"fmt"
+	"github.com/r0ckysec/go-security/bin/misc"
 	"github.com/thinkeridea/go-extend/exstrings"
 	"os"
-	"sec-tools/bin/misc"
 )
 
 func Fragment(fileName string, shards int) (ret []string) {
